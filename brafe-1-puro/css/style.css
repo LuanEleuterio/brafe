@@ -55,3 +55,32 @@ body{
 .menu-nav ul li a:hover{
   transform: scale(1.13); 
 }
+
+/* INTRODUÇÃO */
+
+.intro{
+  background: url('../../img/bg-intro.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 150px 0;
+  text-align: center;
+  color: #FFF;
+}
+
+.intro h1{
+  text-transform: uppercase;
+  font-size: 4em;
+}
+
+.intro h1::after{
+  content: "";
+  display: block;
+  width: 40px;
+  height: 4px;
+  background: #FFF;
+  margin: 9px auto;
+}
+
+.intro p{
+  font-style: italic;
+  font-size: 1.125em;
+}
