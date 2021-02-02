@@ -213,8 +213,66 @@ body{
   display: block;
   text-decoration: none;
   text-align: center;
-  font-style: 1.125em;
+  font-size: 1.125em;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+/* LOCAIS */
+
+.locais{
+ max-width: 960px;
+ margin: 0 auto;
+ padding: 60px 0;
+}
+
+.locais-item{
+  clear: both;
+  margin: 60px auto;
+}
+
+.locais-item::after, .locais-item::before{
+  content: '';
+  display: table;
+  clear: both;
+}
+.locais-item img{
+  max-width: 460px;
+  display: block;
+  float: left;
+  margin: 0 10px; 
+}
+
+.locais-item > div {
+  max-width: 460px;
+  float: left;
+  margin: 0 10px; 
+  padding-top: 15px;
+  padding-left: 25px;
+}
+
+.locais-item h2{
+  font-size: 2.25em;
+  margin-bottom: 20px;
+} 
+
+.locais-item p{
+  font-size: 1.125em;
+  line-height: 1.4em;
+  max-width: 320px;
+  margin-bottom: 40px;
+}
+
+.locais-item a{
+  max-width: 150px;
+  font-size: 1.125em;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  color: #252525;
+  border: 3px solid #252525;
+  padding: 10px 0;
+  display: block;
+
 }
  
