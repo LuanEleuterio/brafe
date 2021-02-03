@@ -56,6 +56,57 @@
   .produto-item{
     margin: 15px auto;
   }
+
+  /* LOCAIS */
+  .locais{
+    max-width: 300px;
+  }
+
+  .locais-item > div, .locais-item img{
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+
+  /* NEWSLETTER */
+
+  .assine-container{
+    max-width: 300px;
+  }
+
+  .assine{
+    box-sizing: border-box;
+  }
+
+  .assine-news{
+    width: 300px;
+    margin: 10px 0;
+  }
+
+  .assine form{
+    width: 278px;
+    margin: 10px 0;
+  }
+
+  .assine form input{
+    width: 278px;
+  }
+
+  /* FOOTER */
+
+  .footer-container{
+    max-width: 300px;
+  }
+
+  .footer-container p{
+    float: none;
+    margin: 0;
+  }
+
+  .footer-container img{
+    float: none;
+    margin-top: 10px;
+  }
 }
 
 @media only screen and (min-width: 740px) and (max-width: 980px){
@@ -76,4 +127,38 @@
   .produto-item{
     width: 220px;
   }
+
+  /* LOCAIS */
+  .locais{
+    max-width: 720px;
+  }
+
+  .locais-item > div{
+    width: 340px;
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+
+  .locais-item img{
+    width: 340px;
+  }
+
+  .locais-item h2{
+    margin-bottom: 10px;
+  }
+
+  .locais-item p{
+    margin-bottom: 19px;
+  }
+
+  /* NEWSLETTER */
+
+  .assine-container{
+    max-width: 720px;
+  }
+
+  .assine-news, .assine form, .assine input{
+    width: 340px;
+  }
+
 }
