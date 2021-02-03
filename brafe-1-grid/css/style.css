@@ -23,12 +23,24 @@ img{
 
 .menu {
 	background: #252525;
+	padding: 15px 0;
 }
 
-.menu-nav a {
+.menu-nav ul{
+	float: right;
+}
+
+.menu-nav ul li{
+	display: inline-block;
+}
+
+.menu-nav ul li a {
+	display: block;
 	text-decoration: none;
 	color: #fff;
 	font-size: 1.125em;
+	margin-left: 10px;
+	padding: 10px;
 }
 
 /* Intro */
@@ -37,6 +49,8 @@ img{
 	background: url('../../img/bg-intro.jpg') no-repeat center center;
 	background-size: cover;
 	color: #fff;
+	text-align: center;
+	padding: 150px 0; 
 }
 
 .intro h1 {
@@ -49,6 +63,7 @@ img{
 	display: block;
 	width: 20px;
 	height: 4px;
+	margin: 10px auto;
 	background: #fff;
 }
 
