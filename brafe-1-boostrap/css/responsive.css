@@ -1,0 +1,23 @@
+@media only screen and (max-width: 770px){
+  .menu-logo{
+    margin-bottom: 10px;
+  }
+  
+  .menu-logo img{
+    margin: 0 auto;
+  }
+  
+  .menu-nav ul{
+    float: none;
+    text-align: center;
+  }
+
+  .menu-nav ul li {
+    padding-left: 0px;
+    margin-left: 0px
+  }
+
+  .intro{
+    padding: 60px 0;
+  }
+}

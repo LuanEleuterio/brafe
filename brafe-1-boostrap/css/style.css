@@ -23,12 +23,28 @@ img{
 
 .menu {
 	background: #252525;
+	padding: 20px 0;
 }
 
 .menu-nav a {
 	text-decoration: none;
 	color: #fff;
 	font-size: 1.125em;
+}
+
+.menu-nav ul{
+	float: right;
+	list-style: none;
+}
+
+.menu-nav ul li{
+	display: inline-block;
+}
+
+.menu-nav ul li a{
+	padding: 10px 0;
+	display: inline-block;
+	margin-left: 10px;
 }
 
 /* Intro */
@@ -44,6 +60,7 @@ img{
 	text-transform: uppercase;
 	font-size: 3em;
 	text-align: center;
+	font-weight: bold;
 }
 
 .intro h1::after {
@@ -63,8 +80,15 @@ img{
 
 /* Sobre */
 
+.sobre{
+	padding: 60px 0;
+}
+
 .sobre h2 {
 	font-size: 2.25em;
+	text-align: center;
+	margin-bottom: 60px;
+	font-weight: bold;
 }
 
 .sobre-item h3 {
@@ -76,12 +100,18 @@ img{
 	font-weight: normal;
 	text-align: center;
 	position: relative;
+	width: 220px;
+	padding: 5px 0 10px 0;
+	top: -25px;
 }
 
 .sobre > p {
 	font-size: 1.125em;
 	line-height: 1.4em;
 	font-style: italic;
+	max-width: 440px;
+	text-align: center;
+	margin: 15px auto;
 }
 
 /* Produtos */
