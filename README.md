@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  ### Layouts dos Brafe's
  
  #### Brafé 1
- ![brafe-1](https://user-images.githubusercontent.com/37514449/107075493-f1a25580-67c8-11eb-83e9-5d3d3eba91f8.png)
+ ![brafe-1](https://user-images.githubusercontent.com/37514449/107076645-75107680-67ca-11eb-8c79-41a44cc817cf.gif)
  
  ### Layout das Pastas do Brafé 1
  * [Brafé 1 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe-1/tree/main/brafe-1-puro)
