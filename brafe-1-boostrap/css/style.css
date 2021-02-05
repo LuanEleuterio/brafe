@@ -14,6 +14,11 @@ body {
 	box-sizing: border-box;
 }
 
+img{
+	display: block;
+	max-width: 100%;
+}
+
 /* Menu */
 
 .menu {
@@ -32,11 +37,13 @@ body {
 	background: url('../../img/bg-intro.jpg') no-repeat center center;
 	background-size: cover;
 	color: #fff;
+	padding: 140px 0;
 }
 
 .intro h1 {
 	text-transform: uppercase;
 	font-size: 3em;
+	text-align: center;
 }
 
 .intro h1::after {
@@ -45,11 +52,13 @@ body {
 	width: 20px;
 	height: 4px;
 	background: #fff;
+	margin: 10px auto;
 }
 
 .intro p {
 	font-style: italic;
 	font-size: 1.125em;
+	text-align: center;
 }
 
 /* Sobre */
