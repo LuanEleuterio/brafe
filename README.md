@@ -14,13 +14,13 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  ![brafe-2](https://user-images.githubusercontent.com/37514449/107076902-e05a4880-67ca-11eb-9612-823f24de9900.gif)
  
  ### Layout das Pastas do Brafé 1
- * [Brafé 1 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe-1/tree/main/brafe-1-puro)
- * [Brafé 1 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe-1/tree/main/brafe-1-grid) - Não é Grid Layout!
- * [Brafé 1 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe-1/tree/main/brafe-1-flexbox)
- * [Brafé 1 - Boostrap | Posicionamento com Boostrap 4](https://github.com/LuanEleuterio/brafe-1/tree/main/brafe-1-boostrap)
+ * [Brafé 1 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-puro)
+ * [Brafé 1 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-grid) - Não é Grid Layout!
+ * [Brafé 1 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-flexbox)
+ * [Brafé 1 - Boostrap | Posicionamento com Boostrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-boostrap)
  
  ### Layout das Pastas do Brafé 2
- * [Brafé 2 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe-2/tree/main/brafe-1-puro)
+ * [Brafé 2 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-puro)
  
  ### Tecnologias utilizadas  :hammer:
 
