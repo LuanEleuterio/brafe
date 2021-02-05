@@ -20,4 +20,9 @@
   .intro{
     padding: 60px 0;
   }
+
+  .footer img{
+    float: none;
+    margin-top: 15px;
+  }
 }
