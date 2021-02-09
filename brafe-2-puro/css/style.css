@@ -34,9 +34,7 @@ body{
 .header-nav{
   border-top: 3px solid #d6d3c8;
   border-bottom: 3px solid #d6d3c8;
-}
-
-.header-nav ul{
+  margin-bottom: 40px;
   padding: 25px 0;
   text-align: center;
 }
@@ -50,9 +48,19 @@ body{
 }
 
 .header-nav ul li a{
+  display: block;
   font-size: 1.125em;
   margin-left: 5px;
-  padding: 10px;
+  padding: 5px 10px 5px 0px;
   text-decoration: none;
   color: #252525;
+}
+
+.header-nav ul li a::before{
+  content: '•';
+  padding-right: 15px;
+}
+
+.header-nav ul li:first-child a::before{
+  content: '';
 }
