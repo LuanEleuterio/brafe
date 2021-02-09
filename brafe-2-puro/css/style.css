@@ -1,0 +1,58 @@
+body, p, h1, h2, h3, ul, li{
+  margin: 0; 
+  padding: 0;
+}
+
+li{
+  list-style: none;
+}
+
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #252525;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/* MENU */
+
+.header-info{
+  font-size: 0.875em;
+  background: #d6d3c8;
+  text-align: center;
+  padding: 5px 0;
+}
+
+.header-logo img{
+  display: block;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.header-nav{
+  border-top: 3px solid #d6d3c8;
+  border-bottom: 3px solid #d6d3c8;
+}
+
+.header-nav ul{
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header-nav ul li{
+  display: inline-block;
+}
+
+.header-nav ul li{
+  list-style: circle;
+}
+
+.header-nav ul li a{
+  font-size: 1.125em;
+  margin-left: 5px;
+  padding: 10px;
+  text-decoration: none;
+  color: #252525;
+}
