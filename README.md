@@ -21,6 +21,7 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  
  ### Layout das Pastas do Brafé 2
  * [Brafé 2 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-puro)
+ * [Brafé 2 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-grid) - Não é Grid Layout!
  
  ### Tecnologias utilizadas  :hammer:
 
