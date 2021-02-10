@@ -17,11 +17,13 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  * [Brafé 1 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-puro)
  * [Brafé 1 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-grid) - Não é Grid Layout!
  * [Brafé 1 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-flexbox)
- * [Brafé 1 - Boostrap | Posicionamento com Boostrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-boostrap)
+ * [Brafé 1 - Bootstrap | Posicionamento com Bootstrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-bootstrap)
  
  ### Layout das Pastas do Brafé 2
  * [Brafé 2 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-puro)
  * [Brafé 2 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-grid) - Não é Grid Layout!
+ * [Brafé 2 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-flexbox)
+ * [Brafé 2 - Bootstrap | Posicionamento com Bootstrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-bootstrap)
  
  ### Tecnologias utilizadas  :hammer:
 
