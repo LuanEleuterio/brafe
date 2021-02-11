@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  
  ### Layout das Pastas do Brafé 3
  * [Brafé 3 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-3-puro)
+ * [Brafé 3 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe/tree/main/brafe-3-flexbox)
+ * [Brafé 3 - Bootstrap | Posicionamento com Bootstrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-3-bootstrap)
 
  ### Tecnologias utilizadas  :hammer:
 
