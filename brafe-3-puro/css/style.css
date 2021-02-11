@@ -59,3 +59,62 @@ img{
 .header-nav ul li:first-child a{
   padding-left: 0px;
 }
+
+/* CONTEUDO MAIN */
+
+.main-container::after, .main-container::before{
+  content: '';
+  display: table;
+  clear: both;
+}
+
+
+.side-nav{
+  width: 300px;
+  background-color: #252525;
+  float: left;
+}
+
+.side-nav ul li a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125em;
+  padding: 20px;
+  border-bottom: 3px solid  #484846;
+}
+
+.side-nav ul li a::before{
+  content: '';
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-image: url('../../img-3/icones.png');
+  position: relative;
+  top: 5px;
+  right: 10px;
+}
+
+.nav-contabilidade::before{
+  background-position: 0 0;
+}
+
+.nav-produtos::before{
+  background-position: 0 -24px;
+}
+
+.nav-paginas::before{
+  background-position: 0 -48px;
+}
+
+.nav-plugins::before{
+  background-position: 0 -72px;
+}
+
+.nav-formularios::before{
+  background-position: 0 -96px;
+}
+
+.nav-hospedagem::before{
+  background-position: 0 -120px;
+}
