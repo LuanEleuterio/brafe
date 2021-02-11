@@ -1,5 +1,66 @@
 @media (max-width: 739px){
+  .header{
+    padding: 10px 0;
+  }
+
+  .header-logo{
+    float: none;
+  }
+
+  .header-logo img{
+    margin: 0 auto;
+  }
+
+  .header-nav ul{
+    float: none;
+    text-align: center;
+    margin-top: 10px
+  }
+
   .main-container{
     flex-direction: column;
+  }
+
+  .side-nav{
+    margin: 20px auto;
+    background: none;
+    width: auto;
+  }
+
+  .side-nav ul li{
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+  .side-nav ul li:first-child{
+    margin-left: 0px;
+  }
+
+  .side-nav ul li a::before{
+    display: block;
+    margin: 0px;
+    top: 0px;
+    right: 0px;
+  }
+
+  .side-nav ul li a{
+    width: 44px;
+    height: 44px;
+    overflow: hidden;
+    padding: 10px;
+    border: none;
+    color: #252525;
+    background: #252525;
+    border-radius: 5px;
+  }
+}
+
+@media (min-width: 740px) and (max-width: 980px){
+  .side-nav{
+    width: 200px;
+  }
+
+  .produtos{
+    width: calc(100% - 200px);
   }
 }
