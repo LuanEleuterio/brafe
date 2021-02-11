@@ -1,0 +1,61 @@
+body, p, h1, h2, h3, ul, li{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #252525;
+  background-color: #e7e4d8;
+}
+
+li{
+  list-style: none;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/* HEADER */
+
+.header{
+  background-color: #d6d3c8;
+  padding: 20px 0;
+}
+
+.header::after, .header::before{
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.header-logo{
+  float: left;
+  margin-left: 10px;
+}
+
+.header-nav ul{
+  float: right;
+}
+
+.header-nav ul li{
+  display: inline-block;
+}
+
+.header-nav ul li a{
+  color: #252525;
+  text-decoration: none;
+  font-size: 1.125em;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.header-nav ul li:first-child a{
+  padding-left: 0px;
+}
