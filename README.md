@@ -13,6 +13,9 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  #### Brafé 2
  ![brafe-2](https://user-images.githubusercontent.com/37514449/107076902-e05a4880-67ca-11eb-9612-823f24de9900.gif)
  
+ #### Brafé 3
+ ![brafe-3](https://user-images.githubusercontent.com/37514449/107648730-6bb85b80-6c5b-11eb-8ce0-4e9fa79263b4.gif)
+ 
  ### Layout das Pastas do Brafé 1
  * [Brafé 1 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-puro)
  * [Brafé 1 - Grid | Posicionamento com Grid Predefinido](https://github.com/LuanEleuterio/brafe/tree/main/brafe-1-grid) - Não é Grid Layout!
