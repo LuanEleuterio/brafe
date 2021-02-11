@@ -29,7 +29,7 @@
 
   .side-nav ul li{
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 5px;
   }
 
   .side-nav ul li:first-child{
@@ -52,6 +52,36 @@
     color: #252525;
     background: #252525;
     border-radius: 5px;
+  }
+
+  .produtos{
+    width: 100%;
+  }
+
+  .produtos h1{
+    float: none;
+  }
+
+  .add-produtos{
+    display: inline-block;
+    float: none;
+    margin: 10px 0;
+  }
+
+  .produtos-item{
+    border-radius: 5px;
+  }
+
+  .produtos-item img{
+    float: none;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 10px;
+  }
+
+  .produtos-item ul {
+    float: none;
+    width: 100%;
   }
 }
 
