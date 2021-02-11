@@ -28,6 +28,9 @@ Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Or
  * [Brafé 2 - Flexbox | Posicionamento com Flexbox](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-flexbox)
  * [Brafé 2 - Bootstrap | Posicionamento com Bootstrap 4](https://github.com/LuanEleuterio/brafe/tree/main/brafe-2-bootstrap)
  
+ ### Layout das Pastas do Brafé 3
+ * [Brafé 3 - Puro | Definindo Width e Height com Pixels](https://github.com/LuanEleuterio/brafe/tree/main/brafe-3-puro)
+
  ### Tecnologias utilizadas  :hammer:
 
  * HTML5
