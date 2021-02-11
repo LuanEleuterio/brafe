@@ -118,3 +118,35 @@ img{
 .nav-hospedagem::before{
   background-position: 0 -120px;
 }
+
+/* PRODUTOS */
+
+.produtos{
+  float: left;
+  width: calc(100% - 300px);
+  max-width: 960px;
+  padding: 20px;
+}
+
+.produtos header::after, .produtos header::before{
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.produtos h1{
+  font-size: 2.25em;
+  float: left;
+}
+
+.add-produtos{
+  float: right;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.125em;
+  font-family: Courier, monospace;
+  text-align: center;
+  background: #c17139;
+  padding: 15px 25px;
+  border-radius: 5px;
+}
