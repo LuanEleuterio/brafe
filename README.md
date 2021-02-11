@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido para o curso de CSS Avançado Posicionamento da Origamid.
 
 ### Objetivo :eyes:
- O objetivo deste curso é aprimorar as noções de Posicionamento de Elementos no CSS utilizando: Definição de Width e Height com pixels, Grid Predefinido, Flexbox e Boostrap.
+ O objetivo deste curso é aprimorar as noções de Posicionamento de Elementos no CSS em 3 layout's diferentes utilizando: Definição de Width e Height com pixels, Grid Predefinido, Flexbox e Boostrap.
  
  ### Layouts dos Brafe's
  
